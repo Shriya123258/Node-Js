@@ -5,8 +5,24 @@
     "mongodb": "^4.3.0",
     "nodemon": "^2.0.15"
   },
-  "scripts":{
+ "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is my first api",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shriya123258/Node-Js.git"
+  },
+  "author": "Shriya Pratapwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shriya123258/Node-Js/issues"
+  },
+  "homepage": "https://github.com/Shriya123258/Node-Js#readme"
+
 }
